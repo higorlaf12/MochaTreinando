@@ -1,0 +1,27 @@
+{
+  "name": "mochatreinando",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/higorlaf12/MochaTreinando.git"
+  },
+  "author": "higor Lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/higorlaf12/MochaTreinando/issues"
+  },
+  "homepage": "https://github.com/higorlaf12/MochaTreinando#readme",
+  "dependencies": {
+    "axios": "^0.17.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "nock": "^9.0.27"
+  }
+}
